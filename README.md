@@ -1,6 +1,6 @@
 
 
-### `Demo:` [Preview](https://5d3c8249891ee08481fbea56--jovial-goldstine-4c4410.netlify.com/).
+### `Demo:` [Preview](https://5d3c8249891ee08481fbea56--jovial-goldstine-4c4410.netlify.com/)
 
 `**Use Google Chrome`
 
