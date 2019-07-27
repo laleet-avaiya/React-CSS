@@ -1,6 +1,9 @@
 
 
-### `Demo:` [Preview](https://5d3c8249891ee08481fbea56--jovial-goldstine-4c4410.netlify.com/)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/de923b00-0cdc-42ea-bf70-61574dc53616/deploy-status)](https://5d3c8249891ee08481fbea56--jovial-goldstine-4c4410.netlify.com/)
+
+### [Preview](https://5d3c8249891ee08481fbea56--jovial-goldstine-4c4410.netlify.com/)
 
 `**Use Google Chrome`
 
